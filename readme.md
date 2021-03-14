@@ -10,3 +10,5 @@
 - find
 - reduce
 - includes
+
+Output in console
